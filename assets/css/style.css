@@ -1,0 +1,69 @@
+body {
+    background-image: url("https://raw.githubusercontent.com/jahdasha/crystal-game/master/assets/images/background.png")
+}
+
+.jumbotron {
+    background-color:whitesmoke;
+    color: green;
+    font-family: helvetica;
+}
+
+h1 {
+   background-color: orange;
+   text-align: center;
+   padding-bottom: 5px;
+   color: white;
+}
+
+.box1 {
+    background-color: green;;
+    width: 230px;
+    height: 75px;
+    
+}
+.box2 {
+    background-color: lightseagreen;
+    width: 90px;
+    height: 75px;
+    
+    
+}
+#blue {
+    margin-left: 35px;
+}
+#yellow {
+    margin-left: 35px;
+}
+#green {
+    margin-left: 35px;
+}
+#totalScore {
+    background-color: darkgreen;
+    width: 230px;
+    height: 50px; 
+    margin-top: 5px;
+    margin-left: 5px;
+    color: white;
+    
+
+}
+#enteredNumber {
+    background-color: darkgreen;
+    width: 230px;
+    height: 100px;
+    margin-left: 5px;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+#selectedNumber {
+    font-size: 32px;
+    color: white;
+    margin-left: 90px;
+    padding-top: 20px;
+    
+    
+}
