@@ -13,11 +13,8 @@ var enteredNumber = "";
 var totalScore = 0;
 var msgWinner = ("Winner");
 var msgLoser = ("Try Again");
-var welcome = ("Welcome to my game!")
-var rules = ("Click the crystals to add up to the given number and win!")
 
-alert(welcome);
-alert(rules);
+
 
 $("#selectedNumber").html(selectedNumber);
 
